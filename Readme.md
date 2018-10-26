@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Алексей Е.](https://up.htmlacademy.ru/javascript/15/user/61758).
-* Наставник: `Неизвестно`.
+* Студент: [Alexandr Gorevoy](https://up.htmlacademy.ru/javascript/15/user/61758).
+* Наставник: `Noone`.
 
 ---
 
