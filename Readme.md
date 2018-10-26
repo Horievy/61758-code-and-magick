@@ -1,6 +1,6 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Alexandr Gorevoy]
+* Студент: Alexandr Gorevoy
 
 
 ---
